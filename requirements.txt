@@ -3,7 +3,7 @@ langchainplus-sdk
 pymupdf
 chromadb==0.3.29
 line-bot-sdk==1.8.0
-fastapi==0.88.0
+fastapi==0.85.1
 uvicorn==0.20.0
 openai
 pytest==7.1.3
